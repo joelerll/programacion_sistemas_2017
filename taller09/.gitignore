@@ -1,0 +1,10 @@
+ejemplo/
+client
+server
+bin/*
+fuser -k 5000/tcp
+anime.png
+files/aleatorio
+copiados/
+prueba.c
+.vscode/

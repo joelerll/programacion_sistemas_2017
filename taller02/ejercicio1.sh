@@ -1,0 +1,4 @@
+RUTA=$1
+ARCHIVO=$0
+
+cp $ARCHIVO $RUTA/$ARCHIVO-copia

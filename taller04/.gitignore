@@ -1,0 +1,5 @@
+bin/cifrador
+lib/libcifrado.so
+obj/*.o
+node_modules/
+*.frames.json

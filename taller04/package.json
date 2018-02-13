@@ -1,0 +1,12 @@
+{
+  "name": "deber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Joel Rodriguez <joelerll@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "shelljs": "^0.7.7"
+  }
+}

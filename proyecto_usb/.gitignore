@@ -1,0 +1,45 @@
+## c
+bin/*.out
+bin/usb*
+bin/daemon*
+bin/cliente
+obj/*.o
+#lib/lib*
+bin/server
+
+## python virtualev
+virtualenv/
+
+
+## editor de texto
+
+.vscode/
+
+##
+jsmn/
+ejemplos/
+.virtualenv/bin
+.virtualenv/include
+.virtualenv/__pycache__
+.virtualenv/lib
+.virtualenv/*.json
+web_server/vue*
+web_server/bootstrap*
+web_server/jquery*
+web_server/mat*
+web_server/fonts/
+p/
+pid_file
+test.txt
+daemonTest
+Log.txt
+file.txt
+test.txt
+listDis*
+bin/daemonTest
+bin/usbPOrtListaDisp
+obj/usb/*.o
+web_server/
+bin/jsonPrueba
+bin/server
+bin/cliente

@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+InfoArreglo	include/utils.h	/^typedef struct InfoArreglo {$/;"	s
+aleatorio	src/taller.c	/^long aleatorio(long min, long max) {$/;"	f
+fin	include/utils.h	/^    long *fin;$/;"	m	struct:InfoArreglo
+funcionDivInfo	src/funciones.c	/^infoArreglo ** funcionDivInfo(long *arraylong, long lenArray, long nHilos){$/;"	f
+generarArreglo	src/taller.c	/^long *generarArreglo (long tamano) {$/;"	f
+infoArreglo	include/utils.h	/^}infoArreglo;$/;"	t	typeref:struct:InfoArreglo
+inicio	include/utils.h	/^    long *inicio;$/;"	m	struct:InfoArreglo
+main	src/taller.c	/^int main(int argc, char **argv) {$/;"	f
+obtenerTiempoActual	src/taller.c	/^double obtenerTiempoActual() {$/;"	f
+sumar	src/taller.c	/^void *sumar (void *arg) {$/;"	f
+tamano	include/utils.h	/^    long tamano;$/;"	m	struct:InfoArreglo
+total	src/taller.c	/^long total = 0;$/;"	v

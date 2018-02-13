@@ -1,0 +1,5 @@
+valgrind --log-file=/tmp/debug.log \
+         --trace-children=yes \
+         --track-origins=yes ./bin/usbDaemon
+
+--leak-check=full
